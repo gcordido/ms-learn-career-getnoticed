@@ -1,115 +1,34 @@
-<!-- 1. Topic sentence(s) --------------------------------------------------------------------------------
-
-    Goal: remind the learner of the core idea(s) from the preceding learning-content unit (without mentioning the details of the exercise or the scenario)
-
-    Heading: none
-
-    Example: "A storage account represents a collection of settings that implement a business policy."
-
-    [Exercise introduction guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=master#rule-use-the-standard-exercise-unit-introduction-format)
--->
 ## Resume Writing: You know your goal, but how do you take the first step?
 
 The first step to get noticed will come through your resume. Although it may seem simple, the way you phrase and describe your experiences will decide whether your application is noticed or overlooked. Recruiters can scan hundreds of resumes daily, and only those that catch their attention will be moved forward in the hiring process. Therefore you need to ensure that your resume complies in both format and content to what the recruiters are looking for. This starts by looking at the position/internship you are interested in.
 
 ### What to Look For
-- The Obvious: Minimum Requirements for the position.
-    - If you do not meet the minimum requirements, your application will most likely be overlooked. However, this should not stop you from applying, as this information will serve as guidance towards what skills you should develop. *No internship expects an expert*. As such, if you begin working on the minimum requirements, you will most likely meet them by the time you interview. 
-    - 
+- **The "Obvious"**:
+    - *Minimum Requirements for the position*: If you do not meet the minimum requirements, your application will most likely be overlooked. However, this should not stop you from applying, as this information will serve as guidance towards what skills you should develop. **No internship expects an expert**. As such, if you begin working on the minimum requirements, you will most likely meet them by the time you interview. 
+    - *Technical skills that are listed as 'preferred'*: These are skills that may not be necessary, but having them will give you a head-start. List these and determine which ones you already have, and which ones are achievable before interviewing.
 
-<!-- 2. Scenario sub-task --------------------------------------------------------------------------------
+- **The Not So Obvious (but just as important)**:
+    - *Soft Skills*: These are not as easy to find as Technical Skills, due to them being mentioned in paragraphs such as job descriptions. Soft skills such as communication and team-work can be written like this:
+    >  "you are responsible for driving cross-team collaboration...negotiate design solutions...expected to collaborate with other interns"
 
-    Goal: Describe the part of the scenario covered in this exercise
+### Identifying your strengths and skills
+Once you have gathered the job posting's information, the next step is identifying where you stand with respect to it. To do this, follow these steps:
+1. Compare the list of technical skills required with the technical skills you possess.
+1. Determine where you acquired these skills, and list these sources. These could have come from classes, bootcamps, online courses, personal projects, hackathons, and more.
+1. Determine any overlaps, such as a project where you acquired/implemented one or more of these technical skills and assign them a priority. Resumes are only expected to be one page long for a student, so you will need to choose experiences that show more of your skills.
 
-    Heading: a separate heading is optional; you can combine this with the topic sentence into a single paragraph
+### Describing your experience
+In order to stand out, you must be able to condense your experience into short yet insightful bullet points. However, the descriptions must go beyond what your duties were. Most people will tend to focus on their duties, rather than showing **their impact**. To further explain this, let's create a scenario with a class project.
 
-    Example: "Recall that in the chocolate-manufacturer example, there would be a separate storage account for the private business data. There were two key requirements for this account: geographically-redundant storage because the data is business-critical and at least one location close to the main factory."
+Suppose you worked on a Python class project that required bug fixing for a calculator to work correctly. You identified the issues, implemented the fixes and tested before turning it in for grading. How would you describe this project in your resume? 
 
-    Recommended: image that summarizes the entire scenario with a highlight of the area implemented in this exercise
--->
-TODO: add your scenario sub-task
-TODO: add your scenario image
+> Calculator Project - Programming II Class Example University 2020
+> - Programmed a calculator program using Python.
+> - Fixed bugs that were in the original code
 
-<!-- 3. Task performed in the exercise ---------------------------------------------------------------------
+Although this example technically describes what your project entailed, as well as your duties; it sounds like a very basic project and does not help to showcase you as an individual. By rephrasing it following an impact-based template however, the project can seem more interesting and eye-catching.
 
-    Goal: State concisely what they'll implement here; that is, describe the end-state after completion
+> Calculator Class Project - Example University 2020
+> - Ensured the correct functionality of a calculator program by identifying **X** bugs utilizing Python Exemption classes and debugging tools, implementing fixes and testing the program through **Y** test cases.
 
-    Heading: a separate heading is optional; you can combine this with the sub-task into a single paragraph
-
-    Example: "Here, you will create a storage account with settings appropriate to hold this mission-critical business data."
-
-    Optional: a video that shows the end-state
--->
-TODO: describe the end-state
-
-<!-- 4. Chunked steps -------------------------------------------------------------------------------------
-
-    Goal: List the steps they'll do to complete the exercise.
-
-    Structure: Break the steps into 'chunks' where each chunk has three things:
-        1. A heading describing the goal of the chunk
-        2. An introductory paragraph describing the goal of the chunk at a high level
-        3. Numbered steps (target 7 steps or fewer in each chunk)
-
-    Example:
-        Heading:
-            "Use a template for your Azure logic app"
-        Introduction:
-             "When you create an Azure logic app in the Azure portal, you have the option of selecting a starter template. Let's select a blank template so that we can build our logic app from scratch."
-        Steps:
-             "1. In the left navigation bar, select Resource groups.
-              2. Select the existing Resource group [sandbox resource group name].
-              3. Select the ShoeTracker logic app.
-              4. Scroll down to the Templates section and select Blank Logic App."
--->
-
-### [Chunk 1 heading]
-<!-- Introduction paragraph -->
-1. <!-- Step 1 -->
-1. <!-- Step 2 -->
-1. <!-- Step n -->
-
-## [Chunk 2 heading]
-<!-- Introduction paragraph -->
-1. <!-- Step 1 -->
-1. <!-- Step 2 -->
-1. <!-- Step n -->
-
-## [Chunk n heading]
-<!-- Introduction paragraph -->
-1. <!-- Step 1 -->
-1. <!-- Step 2 -->
-1. <!-- Step n -->
-
-<!-- 5. Validation chunk -------------------------------------------------------------------------------------
-
-    Goal: Helps the learner to evaluate if they completed the exercise correctly.
-
-    Structure: Break the steps into 'chunks' where each chunk has three things:
-        1. A heading of "## Check your work"
-        2. An introductory paragraph describing how they'll validate their work at a high level
-        3. Numbered steps (when the learner needs to perform multiple steps to verify if they were successful)
-        4. Video of an expert performing the exact steps of the exercise (optional)
-
-    Example:
-        Heading:
-            "Examine the results of your Twitter trigger"
-        Introduction:
-             "At this point, our logic app is scanning Twitter every minute for tweets containing the search text. To verify the app is running and working correctly, we'll look at the Runs history table."
-        Steps:
-             "1. Select Overview in the navigation menu.
-              2. Select Refresh once a minute until you see a row in the Runs history table.
-              ...
-              6. Examine the data in the OUTPUTS section. For example, locate the text of the matching tweet."
--->
-
-## Check your work
-<!-- Introduction paragraph -->
-1. <!-- Step 1 (if multiple steps are needed) -->
-1. <!-- Step 2 (if multiple steps are needed) -->
-1. <!-- Step n (if multiple steps are needed) -->
-Optional "exercise-solution" video
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-<!-- Do not add a unit summary or references/links -->
+This statement showcases the impact you had in the project right from the start, as you *ensured* the correct functionality of the program (the *what*). Next, the statement leads the reader to know *how* you did this, and provided *data* to measure your work. Following a similar template to this, your bullet points will not only catch the attention of recruiters, but also exemplify how you communicate your impact.
