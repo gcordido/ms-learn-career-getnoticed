@@ -21,7 +21,7 @@ Once you have gathered the job posting's information, the next step is identifyi
 1. Determine any overlaps, such as a project where you acquired/implemented one or more of these technical skills and assign them a priority. Resumes are only expected to be one page long for a student, so you will need to choose experiences that show more of your skills.
 1. Now, using the list of soft-skills you created, identify which of these were used in the higher priority experiences, and make a note to include them in the descriptions you will write.
 
-### Describing your experience
+## Describing your experience
 
 In order to stand out, you must be able to condense your experience into short yet insightful bullet points. However, the descriptions must go beyond what your duties were. Most people will tend to focus on their duties, rather than showing **their impact**. To further explain this, let's create a scenario with a class project.
 
