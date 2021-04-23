@@ -28,58 +28,36 @@ durationInMinutes: # user input: the estimate time to complete the unit
 content: |
 quiz:
   questions:
-  - content: ""
+  - content: "How long does a recruiter usually take to initially scan a resume?"
     choices:
-    - content: ""
+    - content: "Up to 10 seconds."
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "Due to the amount of resumes they receive on a daily basis, recruiters can only afford to fully read those that comply with the position's requirements and peak their interest."
+    - content: "Anytime between 30 seconds and a minute."
       isCorrect: false
-      explanation: ""
-    - content: ""
+      explanation: "Recruiters take at most 10 seconds on the initial scan, which if passed, will determine that your resume should be read in full."
+    - content: "5 minutes."
       isCorrect: false
-      explanation: ""
-  - content: ""
+      explanation: "Recruiters take at most 10 seconds on the initial scan, which if passed, will determine that your resume should be read in full."
+  - content: "What are the key sections every student resume should have?"
     choices:
-    - content: ""
+    - content: "Education, Skills, Experience and/or Projects."
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "Following that order, these sections provide the most important information about a student."
+    - content: "Education, Experience, Honors and Affiliations."
       isCorrect: false
-      explanation: ""
-    - content: ""
+      explanation: "Although Education and Experience are two of the key sections, Honors and Affiliations is not considered a must. The other two key sections are Skills and Projects."
+    - content: "Experience, Projects, Skills, Volunteering"
       isCorrect: false
-      explanation: ""
-  - content: ""
+      explanation: "The most important section for any student resume is the Education section. Replace Volunteering with Education and you will have the key sections."
+  - content: "Which of the following experiences descriptions highlight impact?"
     choices:
-    - content: ""
+    - content: "Improved route accuracy by 15%, through the implemention of a real-time updating algorithm, as measured by comparing the number of real routes generated before and after the implementation"
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "The statement starts by showcasing what the impact was through the use of an action verb to highlight the results, then moving on to the "how" and finishing with how the impact was measured. For more guidance, follow the template mentioned in the Resume Writing Unit."
+    - content: "Developed a real-time updating algorithm to improve route accuracy"
       isCorrect: false
-      explanation: ""
-    - content: ""
+      explanation: "This statement focuses on explaning what was done, but lacks action verbs that relate to impact and does not delve into results."
+    - content: "Tasked with improving route accuracy by implementing new algorithms and measuring the number of real routes"
       isCorrect: false
-      explanation: ""
-  - content: ""
-    choices:
-    - content: ""
-      isCorrect: true
-      explanation: ""
-    - content: ""
-      isCorrect: false
-      explanation: ""
-    - content: ""
-      isCorrect: false
-      explanation: ""
-  - content: ""
-    choices:
-    - content: ""
-      isCorrect: true
-      explanation: ""
-    - content: ""
-      isCorrect: false
-      explanation: ""
-    - content: ""
-      isCorrect: false
-      explanation: ""
+      explanation: "This statement describes duties, and although it includes the "how" and the measures, it does not tackle impact."

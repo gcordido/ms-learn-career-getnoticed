@@ -1,6 +1,6 @@
 # Resume Writing: You know your goal, but how do you take the first step?
 
-The first step to get noticed will come through your resume. Although it may seem simple, the way you phrase and describe your experiences will decide whether your application is noticed or overlooked. Recruiters can scan hundreds of resumes daily, and only those that catch their attention will be moved forward in the hiring process. Therefore you need to ensure that your resume complies in both format and content to what the recruiters are looking for. This starts by looking at the position/internship you are interested in.
+The first step to get noticed will come through your resume. Although it may seem simple, the way you phrase and describe your experiences will decide whether your application is noticed or overlooked. Recruiters can scan hundreds of resumes daily, taking between about 10 seconds in the initial scan and only those that catch their attention will be considered to be read in full. Therefore you need to ensure that your resume complies in both format and content to what the recruiters are looking for. This starts by looking at the position/internship you are interested in.
 
 ## What to Look For
 
