@@ -3,12 +3,12 @@ uid: undefined.resume-building
 title: Building your Resume
 metadata:
   unitType: {{patternType}} 
-  title: # user input: module title for browser tab and search results
-  description: # user input: a description for site search and SEO
+  title: Resume Building
+  description: Description of Resume Sections and How to Write them
   ms.date: 4/16/2021 
   author: gcordido 
   ms.author: gcordido 
   ms.topic: interactive-tutorial # do we need ms.topic?
-durationInMinutes: # user input: the estimate time to complete the unit
+durationInMinutes: 10
 content: |
   [!include[](includes/5-resume-building.md)]
