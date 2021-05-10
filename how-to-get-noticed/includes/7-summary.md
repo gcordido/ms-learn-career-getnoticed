@@ -1,1 +1,1 @@
-
+As the first step towards starting your professional career, getting noticed can be both daunting and exciting. Through this module, you learned both the basics of networking and how to build an attention-grabbing resume. Additionally, you were exposed to examples and tips on how to better describe your experiences and bring light to YOUR personal value. With these in mind, you are ready to take on the world of internship searching and applying! There is only growing from this moment forward.
